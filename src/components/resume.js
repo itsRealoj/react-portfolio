@@ -22,10 +22,13 @@ class Resume extends Component {
             <h2 style={{paddingTop: '2em'}}>Stephen Ochieng</h2>
             <h4 style={{color: 'grey'}}>Software Engineer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            <p>I am a FullStack Software Engineer who believes that with many problems in the world, there are many solutions as well. I believe in implementing great ideas that can change our world using codes. Ever since I displayed "HELLO WORLD" on a screen, I have concluded there is no puzzle that is impossible to solve in programming.</p>
+
+            <p>I love coming across challenges in programming as they give me directions on what to learn; this attitude has helped grow in terms of my programming skill-set. I am passionate about implementing systems that solve some of the world's biggest problems, like corruption and environment conservation.</p>
+            
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Address</h5>
-            <p>1 Hacker Way Menlo Park, 94025</p>
+            <p>Nairobi Kenya, 9456</p>
             <h5>Phone</h5>
             <p>(254) 718-697-987</p>
             <h5>Email</h5>
